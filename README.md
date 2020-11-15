@@ -1,3 +1,38 @@
+## Table of Contents
+1. Deployed Link
+2. Objective
+3. Technologies
+4. Screenshot
+5. Getting Started with Create React App
+6. License
+
+
+## Deployed Link
+[Heroku Deployment](https://emp-direct-01.herokuapp.com/)
+
+## Objective
+To make a web application that allows the user to view the employees, filter by employee name, and sort in ascending or descending order of employee name
+
+## Technologies
+-Bootstrap (materialize- css and react)
+-Javascript
+-NoSQL
+-Mongoose
+-HTML
+
+## Screenshot
+Initial look:
+
+![alt text](https://github.com/hancc1006/employee-directory.io/blob/main/Assets/Employee%20Initial.PNG?raw=true)
+
+Searching for Employees:
+
+![alt text](https://github.com/hancc1006/employee-directory.io/blob/main/Assets/Employee%20Search.PNG?raw=true)
+
+Sorting Z-A:
+
+![alt text](https://github.com/hancc1006/employee-directory.io/blob/main/Assets/Employee%20Z-A.PNG?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +103,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License
+[MIT License Used for Project](https://github.com/hancc1006/budget-pwa.io/blob/main/LICENSE?raw=false)
