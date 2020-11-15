@@ -1,0 +1,35 @@
+.h1{
+    float:left;
+    text-align: left;
+    color:white;
+    margin-top: 10px;
+}
+.navbar{
+    background-color:darkolivegreen;
+    margin: 0 auto;
+    padding: 20px 25px;
+}
+
+.navbar-collapse{
+    margin:0 auto;
+    justify-content:left;
+    align-items:flex-start;
+}
+
+#filter {
+    float: middle;
+}
+.search-bar{
+    float:middle;
+    font-size: 50px;
+    color:white;
+}
+
+.coloring{
+    color:white;
+}
+
+.form{
+    overflow:hidden;
+    position:relative;
+}
