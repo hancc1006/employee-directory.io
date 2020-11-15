@@ -1,3 +1,6 @@
+# Budget Trackers
+An application that displays the list of employees, their name, username, email, phone number, and country
+
 ## Table of Contents
 1. Deployed Link
 2. Objective
