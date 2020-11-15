@@ -1,4 +1,4 @@
-# Budget Trackers
+# Employee Directory
 An application that displays the list of employees, their name, username, email, phone number, and country
 
 ## Table of Contents
